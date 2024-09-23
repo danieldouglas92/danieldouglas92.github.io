@@ -1,10 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Daniel Douglas"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: 500x300.png
+  actions:
+  caption: ""
+excerpt: "Ph.D Candidate at New Mexico Institute of Mining and Technology"
 ---
 
 About me
