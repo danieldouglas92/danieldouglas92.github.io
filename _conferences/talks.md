@@ -1,7 +1,7 @@
 ---
-permalink: /conferences/
 title: "Talks"
-author_profile: false
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
 
 PyLith Crustal Deformation Workshop 2024
