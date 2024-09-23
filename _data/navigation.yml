@@ -10,9 +10,6 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
         
   - title: "Model Gallery"
     url: /model-gallery/
@@ -22,3 +19,7 @@ main:
 
   - title: "Conferences"
     url: /conferences/
+
+  - title: "Teaching"
+    url: /teaching/
+    
