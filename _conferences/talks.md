@@ -1,10 +1,7 @@
 ---
 permalink: /conferences/
-title: "Daniel Douglas"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "Talks"
+author_profile: false
 ---
 
 PyLith Crustal Deformation Workshop 2024
