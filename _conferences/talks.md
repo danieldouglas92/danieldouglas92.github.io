@@ -1,11 +1,10 @@
 ---
-title: "Talks"
-collection: conferences
-type: "Talks"
-permalink: /conferences/talks
-venue: "Earth"
-date: 2024-01-01
-location: "Earth"
+permalink: /conferences/
+title: "Daniel Douglas"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 PyLith Crustal Deformation Workshop 2024
