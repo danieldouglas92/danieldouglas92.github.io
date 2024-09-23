@@ -1,11 +1,11 @@
 ---
 title: "Posters"
 collection: conferences
-type: ""
+type: "Posters"
 permalink: /conferences/posters
-venue: ""
+venue: "Earth"
 date: 2024-01-01
-location: ""
+location: "Earth"
 ---
 
 AGU Fall Meeting 2023

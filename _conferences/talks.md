@@ -1,11 +1,11 @@
 ---
 title: "Talks"
 collection: conferences
-type: ""
+type: "Talks"
 permalink: /conferences/talks
-venue: ""
+venue: "Earth"
 date: 2024-01-01
-location: ""
+location: "Earth"
 ---
 
 PyLith Crustal Deformation Workshop 2024

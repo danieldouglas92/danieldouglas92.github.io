@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /conferences/workshops
 venue: "University 1, Department"
 date: 2024-01-01
-location: ""
+location: "Earth"
 ---
 
 2024 ASPECT Hackathon
