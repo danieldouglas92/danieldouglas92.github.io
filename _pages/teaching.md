@@ -11,23 +11,20 @@ header:
 excerpt: ""
 ---
 
-Teaching Assistant
-===
+# Teaching Assistant
 
-Introduction to Physics I and II: University of Toronto, 2018 - 2019
+### Introduction to Physics I and II: University of Toronto, 2018 - 2019
 ---
 Lead the physics labs and helped with writing lab reports. I also graded the lab reports, quizzes, and exams.
 
-Facilitated Study Group Leader
-===
+# Facilitated Study Group Leader
 
-Introduction to Physics I and II: University of Toronto, 2017 - 2019
+### Introduction to Physics I and II: University of Toronto, 2017 - 2019
 ---
 Created worksheets and guided groups of students through completing the worksheet and preparing for exams.
 
-Physics Aid Center Directory and Tutor
-===
+# Physics Aid Center Directory and Tutor
 
-University of Toronto, 2017 - 2019
+### University of Toronto, 2017 - 2019
 ---
 The Physics Aid Center is a volunteer program for junior and senior students in physics to help freshman physics students. I was a tutor for the physics aid center, and also dealt with the scheduling and recruiting of other tutors.
