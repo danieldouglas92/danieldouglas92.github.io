@@ -11,18 +11,17 @@ header:
 excerpt: "List of all presentations and workshops I've attended."
 ---
 
-Talks
-======
+# Talks
 
-PyLith Crustal Deformation Workshop 2024
+#### PyLith Crustal Deformation Workshop 2024
 --------
 Constraining Oceanic Lithosphere Permeability Structure in the Central America Outer-Rise Region Using PyLith
 
-AGU Fall Meeting 2023
+### AGU Fall Meeting 2023
 --------
 Modeling of Dynamics in the Hikurangi-Kermadec Subduction System
 
-Posters
+# Posters
 ======
 
 AGU 2024 Fall Meeting
@@ -68,7 +67,7 @@ New Orleans, Louisiana, 2021
 Magma-Assisted Flexure of Hawaiian Lithosphere Inferred From Three-Dimensional Models of Lithospheric Flexure and Active Source Seismic Data
 
 
-Workshops
+# Workshops
 ======
 
 ASPECT Hackathon 2024
