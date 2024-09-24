@@ -44,8 +44,8 @@ Chicago, Illinois, 2022
 3D Modeling of Dynamics in the Hikurangi-Kermadec Subduction System
 
 ### Ada Lovelace Workshop on Numerical Modeling of Mantle Lithosphere and Dynamics
+#### Heviz, Hungary, 2022
 ---
-Heviz, Hungary, 2022
 3D Modeling of Dynamics in the Hikurangi-Kermadec Subduction System
 
 SEG-AGU Workshop
