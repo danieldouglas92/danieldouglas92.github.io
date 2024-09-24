@@ -13,12 +13,15 @@ header:
   caption: ""
 excerpt: "Here I showcase a few images from various projects that I've worked on."
 
-feature_row:
+## Test a header here
+
+feature_row_1:
   - image_path: gallery/mesh_interface.png
     alt: "ASPECT"
     title: "ASPECT"
     excerpt: "I am developing 3-Dimensional regional subduction models of the Hikurangi Margin."
 
+feature_row_2:
   - image_path: gallery/total_stress_strain.png
     alt: "Deal.II"
     title: "Deal.II"
@@ -28,9 +31,12 @@ feature_row:
     alt: "Rayleigh"
     title: "Rayleigh"
     excerpt: "Animation showing the growth of the Hawaiian Islands" 
-    url: "https://github.com/geodynamics/Rayleigh/"
 ---
 
-{% include feature_row %}
+{% include feature_row_1 %}
+
+## Test another header Here
+
+{% include feature_row_2 %}
 
 {% include base_path %}
