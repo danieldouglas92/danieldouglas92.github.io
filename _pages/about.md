@@ -8,7 +8,7 @@ redirect_from:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: 500x300.png
+  overlay_image: 3D_spherical_with_vectors.png
   actions:
   caption: ""
 excerpt: "Ph.D Candidate at New Mexico Institute of Mining and Technology"
