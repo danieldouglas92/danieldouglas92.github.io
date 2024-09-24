@@ -12,13 +12,11 @@ excerpt: ""
 ---
 
 # Teaching Assistant
-
 #### Introduction to Physics I and II: University of Toronto, 2018 - 2019
 ---
 Lead the physics labs and helped with writing lab reports. I also graded the lab reports, quizzes, and exams.
 
 # Facilitated Study Group Leader
-
 #### Introduction to Physics I and II: University of Toronto, 2017 - 2019
 ---
 Created worksheets and guided groups of students through completing the worksheet and preparing for exams.
