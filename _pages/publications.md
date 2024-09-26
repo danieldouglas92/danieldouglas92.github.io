@@ -12,8 +12,8 @@ excerpt: ""
 ---
 
 ## Constraining Solid Dynamics, Interface Rheology, and Slab Hydration in the Hikurangi Subduction Zone Using 3D Fully Dynamic Models
-**D. Douglas**, J. Naliboff, M. R. T. Fraters, J. Dannberg, D. Eberhart-Phillips, S. Ellis
-#### DOI: https://doi.org/10.22541/au.172357757.70026001/v1
+***D. Douglas***, J. Naliboff, M. R. T. Fraters, J. Dannberg, D. Eberhart-Phillips, S. Ellis <br>
+DOI: [https://doi.org/10.22541/au.172357757.70026001/v1](https://doi.org/10.22541/au.172357757.70026001/v1)
 ---
 
 ## The Geodynamic World Builder: A planetary structure creator for the geosciences
