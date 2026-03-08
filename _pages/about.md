@@ -14,11 +14,10 @@ header:
 excerpt: "Postdoctoral Researcher at Boston College"
 ---
 
-About me
+About Me
 ======
-I am a postdoctoral researcher at Boston College. My field of research is computational geodynamics, and I develop numerical models of the Earth. 
+I am a postdoctoral researcher at Boston College. My field of research is computational geodynamics, and I develop numerical models of the Earth's evolution. In the past I have investigated the flexural response of the Pacific plate due to the loading of the Hawaiian islands, and more recently I have become interested in subduction zone processes and the interactions between surface evolution and the deep Earth. Animations from some of my past modeling studies can be seen (LINK HERE!!!!)
 
-Research
+Software Development
 --------
-
-I am a Ph.D candidate at New Mexico Institute of Mining and Technology working with Dr. John Naliboff. My research centers on numerical modeling of subduction zones in both 2-Dimensions and 3-Dimensions with a focus on volatile cycling and how volatiles impact subduction dynamics. I use and have contributed to the open source modeling software ASPECT (Advanced Solver for Problems in Earth's ConvecTion).
+I am a principal developer and maintainer of the open source modeling software ASPECT, and the Geodynamic World Builder. 
