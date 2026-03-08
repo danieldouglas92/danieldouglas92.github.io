@@ -11,12 +11,12 @@ header:
   overlay_image: 3D_spherical_with_vectors.png
   actions:
   caption: ""
-excerpt: "Ph.D Candidate at New Mexico Institute of Mining and Technology"
+excerpt: "Postdoctoral Researcher at Boston College"
 ---
 
 About me
 ======
-
+I am a postdoctoral researcher at Boston College. My field of research is computational geodynamics, and I develop numerical models of the Earth. 
 
 Research
 --------

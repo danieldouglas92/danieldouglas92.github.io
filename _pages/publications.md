@@ -17,7 +17,7 @@ DOI: [https://doi.org/10.22541/au.172357757.70026001/v1](https://doi.org/10.2254
 
 
 # The Geodynamic World Builder: A planetary structure creator for the geosciences
-M. R. T. Fraters, M. Billen, R. Gassmoller, A. Saxena, T. Heister, H. Li, ***D. Douglas***, J. Dannberg, W. Bangert, Y. Wang <br>
+M. R. T. Fraters, M. Billen, R. Gassmoller, A. Saxena, T. Heister, H. Li, ***D. Douglas***, J. Dannberg, W. Bangerth, Y. Wang <br>
 DOI: [https://doi.org/10.21105/joss.06671](https://doi.org/10.21105/joss.06671) <br>
 
 ## Magma-Assisted Flexure of Hawaiian Lithosphere Inferred From Three-Dimensional Models of Lithospheric Flexure Constrained by Active Source Seismic Data
