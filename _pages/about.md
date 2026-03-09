@@ -16,7 +16,7 @@ excerpt: "Postdoctoral Researcher at Boston College"
 
 About Me
 ======
-I am a postdoctoral researcher at Boston College. My field of research is computational geodynamics, and I develop numerical models of the Earth's evolution. In the past I have investigated the flexural response of the Pacific plate due to the loading of the Hawaiian islands, and more recently I have become interested in subduction zone processes and the interactions between surface evolution and the deep Earth. Animations from some of my past modeling studies can be seen (LINK HERE!!!!)
+I am a postdoctoral researcher at Boston College. My field of research is computational geodynamics, and I develop numerical models of the Earth's evolution. In the past I have investigated the flexural response of the Pacific plate due to the loading of the Hawaiian islands, and more recently I have become interested in subduction zone processes and the interactions between surface evolution and the deep Earth. Animations from some of my past modeling studies can be seen [here](https://danieldouglas92.github.io/model-gallery/).
 
 Software Development
 --------
