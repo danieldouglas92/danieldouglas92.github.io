@@ -21,7 +21,7 @@ repository               : "danieldouglas92/danieldouglas92.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   name             : "Daniel Douglas"
   pronouns         : "he/him/his"  
   bio              : "Postdoctoral Researcher at Boston College (2025 - Present). <br> PhD in Geophysics at New Mexico Tech (2021 - 2025). <br> MSc in Geophysics at the University of Hawaii (2021). <br> BSc in Physics at the University of Toronto (2019)"

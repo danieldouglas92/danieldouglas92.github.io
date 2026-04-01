@@ -16,8 +16,16 @@ excerpt: "Postdoctoral Researcher at Boston College"
 
 About Me
 ======
-I am a postdoctoral researcher at Boston College. My field of research is computational geodynamics, and I develop numerical models of the Earth's evolution. In the past I have investigated the flexural response of the Pacific plate due to the loading of the Hawaiian islands, and more recently I have become interested in subduction zone processes and the interactions between surface evolution and the deep Earth. Animations from some of my past modeling studies can be seen [here](https://danieldouglas92.github.io/model-gallery/).
+I am a postdoctoral researcher at Boston College where I work on coupling the landscape evolution software package LandLab with the lithospheric deformation/mantle convection software package ASPECT.. My field of research is computational geodynamics, and I develop numerical models of the Earth's evolution. In the past I have investigated the flexural response of the Pacific plate due to the loading of the Hawaiian islands, and more recently I have become interested in subduction zone processes and the interactions between surface evolution and the deep Earth. Animations from some of my past modeling studies can be seen [here](https://danieldouglas92.github.io/model-gallery/).
 
 Software Development
 --------
 I am a principal developer and maintainer of the open source modeling software ASPECT, and the Geodynamic World Builder. 
+
+<div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap; margin-top: 1rem;">
+  <img src="{{ '/images/aspect_logo.webp' | relative_url }}" alt="ASPECT logo" style="max-height: 90px; width: auto;" />
+  
+  <img src="{{ '/images/world_builder_logo.webp' | relative_url }}" alt="Geodynamic World Builder logo" style="max-height: 90px; width: auto;" />
+</div>
+
+
