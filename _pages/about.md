@@ -22,10 +22,14 @@ Software Development
 --------
 I am a principal developer and maintainer of the open source modeling software ASPECT, and the Geodynamic World Builder. 
 
-<div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap; margin-top: 1rem;">
-  <img src="{{ '/images/aspect_logo.webp' | relative_url }}" alt="ASPECT logo" style="max-height: 90px; width: auto;" />
-  
-  <img src="{{ '/images/world_builder_logo.webp' | relative_url }}" alt="Geodynamic World Builder logo" style="max-height: 90px; width: auto;" />
+<div style="display: grid; gap: 1rem; margin-top: 1rem; width: 100%;">
+  <a href="https://aspect.geodynamics.org/" target="_blank" rel="noopener noreferrer" style="display: block; width: 100%;">
+    <img src="{{ '/images/aspect_logo.webp' | relative_url }}" alt="ASPECT logo" style="display: block; width: 100%; height: auto;" />
+  </a>
+
+  <a href="https://github.com/GeodynamicWorldBuilder/WorldBuilder" target="_blank" rel="noopener noreferrer" style="display: block; width: 100%;">
+    <img src="{{ '/images/world_builder_logo.webp' | relative_url }}" alt="Geodynamic World Builder logo" style="display: block; width: 100%; height: auto;" />
+  </a>
 </div>
 
 
