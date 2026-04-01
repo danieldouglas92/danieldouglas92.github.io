@@ -8,7 +8,7 @@ redirect_from:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: 3D_spherical_with_vectors.png
+  overlay_image: resized.png
   actions:
   caption: ""
 excerpt: "Postdoctoral Researcher at Boston College"
