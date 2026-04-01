@@ -8,10 +8,29 @@ header:
   overlay_image: 500x300.png
   actions:
   caption: ""
-excerpt: "List of all presentations and workshops I've attended."
+excerpt: "List of Scientific Talks I've Given"
 ---
 
 # Talks
+### EGU 2026 ***Invited***
+#### Vienna, Austria, 2026 
+---
+**Title:** *Investigating the Role of Fluid–Solid Coupling on Subduction Dynamics and Fluid Pathways*
+
+### Marine & Polar Geophysics/Seismology, Geology & Tectonophysics Seminars ***Invited***
+#### Lamont-Doherty Earth Observatory, New York, 2026 
+---
+**Title:** *Investigating the Role of Fluid–Solid Coupling on Subduction Dynamics and Fluid Pathways*
+
+### Colorado State University Earth Science Seminar Series
+#### Fort Collins, Colorado, 2025
+---
+**Title:** *Investigating the Role of Fluid–Solid Coupling on Subduction Dynamics and Fluid Pathways*
+
+### AGU Fall Meeting 2025
+#### New Orleans, Louisiana, 2025
+---
+**Title:** *Constraining Oceanic Lithosphere Permeability Structure in the Central America Outer-Rise Region Using PyLith*
 
 ### PyLith Crustal Deformation Workshop 2024
 #### Golden, Colorado, 2024
@@ -22,79 +41,3 @@ excerpt: "List of all presentations and workshops I've attended."
 #### San Francisco, California, 2023
 ---
 **Title:** *Modeling of Dynamics in the Hikurangi-Kermadec Subduction System*
-
-# Posters
-
-### AGU 2024 Fall Meeting
-#### Washington D.C., 2024
----
-**Title:** *Constraining Permeability of Subducting Lithosphere at the Central American Trench*
-
-### AGU 2024 Fall Meeting
-#### Washington D.C., 2024
----
-**Title:** *Investigating the Role of Distinct Physical Approximations in Simulations of Coupled Reactive Fluid Transport: An Application to the Hikurangi Subduction Zone*
-
-### AGU 2023 Fall Meeting
-#### San Francisco, California, 2023
----
-**Title:** *Geodynamic Constraints on the Stability of Forearc Serpentinite in the Cold Nose of the Mantle Wedge*
-
-### AGU 2022 Fall Meeting
-#### Chicago, Illinois, 2022
----
-**Title:** *3D Modeling of Dynamics in the Hikurangi-Kermadec Subduction System*
-
-### Ada Lovelace Workshop on Numerical Modeling of Mantle Lithosphere and Dynamics
-#### Heviz, Hungary, 2022
----
-**Title:** *3D Modeling of Dynamics in the Hikurangi-Kermadec Subduction System*
-
-### SEG-AGU Workshop
-#### Seattle, Washington, 2022
----
-**Title:** *3D Modeling of Dynamics in the Hikurangi-Kermadec Subduction System*
-
-### GeoPRISMs Workshop
-#### Honolulu, Hawaii, 2022
----
-**Title:** *3D Modeling of Dynamics in the Hikurangi-Kermadec Subduction System*
-
-### AGU 2021 Fall Meeting
-#### New Orleans, Louisiana, 2021
----
-**Title:** *Magma-Assisted Flexure of Hawaiian Lithosphere Inferred From Three-Dimensional Models of Lithospheric Flexure and Active Source Seismic Data*
-
-# Workshops
-
-### ASPECT Hackathon 2024
-#### Colorado State University, Mountain Campus
----
-
-### Geodynamic WorldBuiler Hackathon 2024
-#### Panama City, Florida
----
-
-### ASPECT Hackathon 2023
-#### Lincoln City, Oregon
----
-
-### CIDER Workshop 2023
-#### University of California, Berkeley
----
-
-### PyLith Hackathon 2023
-#### Golden, Colorado
----
-
-### ASPECT Hackathon 2022
-#### Cody, Wyoming
----
-
-### ASPECT Hackathon 2021
-#### Virtual
----
-
-### ASPECT Hackathon 2020
-#### Virtual
----
