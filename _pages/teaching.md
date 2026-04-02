@@ -14,7 +14,7 @@ excerpt: "A list of mentoring and teaching roles that I've filled."
 #### World Builder Hackathon 2026
 #### ASPECT Hackathon 2026
 ---
-Mentoring and reviewing pull requests.
+Mentoring and reviewing pull requests. Hackathons ranged from 10 - 20 participants.
 
 # Teaching Assistant
 #### Introduction to Physics I and II: University of Toronto, 2018 - 2019
@@ -26,7 +26,7 @@ Lead the physics labs and helped with writing lab reports. I also graded the lab
 ---
 Created worksheets and guided groups of students through completing the worksheet and preparing for exams.
 
-# Physics Aid Center Directory and Tutor
+# Physics Aid Center Director and Tutor
 #### University of Toronto, 2017 - 2019
 ---
 The Physics Aid Center is a volunteer program for junior and senior students in physics to help freshman physics students. I was a tutor for the physics aid center, and also dealt with the scheduling and recruiting of other tutors.
