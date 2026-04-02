@@ -11,7 +11,7 @@ header:
   overlay_image: resized.png
   actions:
   caption: ""
-excerpt: "I am a Postdoctoral Researcher at Boston College"
+excerpt: "Postdoctoral Researcher at Boston College"
 ---
 
 About Me
