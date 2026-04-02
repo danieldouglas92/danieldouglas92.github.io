@@ -1,5 +1,5 @@
 ---
-permalink: /conferences/
+permalink: /talks/
 title: "Daniel Douglas"
 author_profile: true
 header:
