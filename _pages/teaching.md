@@ -8,8 +8,13 @@ header:
   overlay_image: resized.png
   actions:
   caption: ""
-excerpt: ""
+excerpt: "A list of mentoring and teaching roles that I've filled."
 ---
+# Hackathons
+#### World Builder Hackathon 2026
+#### ASPECT Hackathon 2026
+---
+Mentoring and reviewing pull requests.
 
 # Teaching Assistant
 #### Introduction to Physics I and II: University of Toronto, 2018 - 2019

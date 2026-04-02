@@ -8,7 +8,7 @@ header:
   overlay_image: resized.png
   actions:
   caption: ""
-excerpt: "List of Scientific Talks I've Given"
+excerpt: "Below is a list of scientific talks that I've given."
 ---
 
 # Talks
