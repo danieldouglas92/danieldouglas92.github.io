@@ -20,7 +20,7 @@ I am a postdoctoral researcher at Boston College where I work on the NSF sponsor
 
 Software Development
 --------
-I am a principal developer and maintainer of the open source geodynamic modeling software the Advanced Solver for Planetary Evolution, Convection, and Tectonics ([ASPECT](https://github.com/geodynamics/aspect)), and the geodynamic model initial conditions generator the [Geodynamic World Builder](https://github.com/GeodynamicWorldBuilder/WorldBuilder). I am a principal developer and maintainer of the open source geodynamic modeling software the Advanced Solver for Planetary Evolution, Convection, and Tectonics ([ASPECT](https://github.com/geodynamics/aspect)), and the geodynamic model initial conditions generator the [Geodynamic World Builder](https://github.com/GeodynamicWorldBuilder/WorldBuilder). 
+I am a principal developer and maintainer of the open source geodynamic modeling software the Advanced Solver for Planetary Evolution, Convection, and Tectonics ([ASPECT](https://github.com/geodynamics/aspect)), and the geodynamic model initial conditions generator the [Geodynamic World Builder](https://github.com/GeodynamicWorldBuilder/WorldBuilder).
 
 <div style="display: grid; gap: 1rem; margin-top: 1rem; width: 100%;">
   <a href="https://github.com/geodynamics/aspect" target="_blank" rel="noopener noreferrer" style="display: block; width: 100%;">
