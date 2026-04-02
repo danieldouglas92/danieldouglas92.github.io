@@ -27,7 +27,7 @@ I am a principal developer and maintainer of the open source geodynamic modeling
     <img src="{{ '/images/aspect_logo.webp' | relative_url }}" alt="ASPECT logo" style="display: block; width: 100%; height: auto;" />
   </a>
 
-  <a href="https://github.com/GeodynamicWorldBuilder/WorldBuilder" target="_blank" rel="noopener noreferrer" style="display: block; width: 80%; margin: 0 auto;">
+  <a href="https://github.com/GeodynamicWorldBuilder/WorldBuilder" target="_blank" rel="noopener noreferrer" style="display: block; width: 50%; margin: 0 auto;">
     <img src="{{ '/images/world_builder_logo.webp' | relative_url }}" alt="Geodynamic World Builder logo" style="display: block; width: 100%; height: auto;" />
   </a>
 </div>
