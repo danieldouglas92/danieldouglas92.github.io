@@ -13,9 +13,9 @@ excerpt: "Below are a list of peer-reviewed and non-peer-reviewed articles I've 
 
 ### Peer-Reviewed:
 ---
+***D. Douglas***, B. T. Aagaard, J. Naliboff, S. Naif, 2026; [Constraining the Permeability and Outer-Rise Hydration at the Central America Margin](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032427) <br>
 
 ***D. Douglas***, J. Naliboff, M. R. T. Fraters, J. Dannberg, D. Eberhart-Phillips, S. Ellis, 2025; [Constraining Solid Dynamics, Interface Rheology, and Slab Hydration in the Hikurangi Subduction Zone Using 3D Fully Dynamic Models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GC011824) <br>
-
 
 M. R. T. Fraters, M. Billen, R. Gassmoller, A. Saxena, T. Heister, H. Li, ***D. Douglas***, J. Dannberg, W. Bangerth, Y. Wang, 2025; [The Geodynamic World Builder: A planetary structure creator for the geosciences](https://doi.org/10.21105/joss.06671) <br>
 
