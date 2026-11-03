@@ -24,5 +24,6 @@ M. R. T. Fraters, M. Billen, R. Gassmoller, A. Saxena, T. Heister, H. Li, ***D. 
 
 ### Non-Peer-Reviewed
 ---
+[Blog Post](https://blogs.egu.eu/divisions/gd/2026/10/07/the-giant-seafloor-sponge-how-water-ends-up-in-subducting-crust/) on the blog of the Geodynamics (GD) Division of the European Geosciences Union (EGU), 2026
 
 [Blog Post](https://blogs.egu.eu/divisions/gd/2021/11/17/magma-assisted-flexure-in-hawaiian-lithosphere/) on the blog of the Geodynamics (GD) Division of the European Geosciences Union (EGU), 2021
