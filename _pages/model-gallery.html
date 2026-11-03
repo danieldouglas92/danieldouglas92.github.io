@@ -14,18 +14,6 @@ header:
 excerpt: "Here I showcase a few images and animations from various projects that I've worked on."
 
 feature_row:
-  - image_path: gallery/mesh_interface.png
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GC011824
-    alt: "3D Models of Subduction at the Hikurangi Margin"
-    title: "3D Models of Subduction at the Hikurangi Margin "
-    excerpt: "I developed instantaneous models of subduction at the Hikurangi margin to investigate the effects of plate interface rheology and hydration on subducting dynamics and mantle anisotropy."
-
-  - image_path: gallery/total_stress_strain.png
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JB030376
-    alt: "Stress and Strain Beneath the Island of Hawaii"
-    title: "Stress and Strain Beneath the Island of Hawaii"
-    excerpt: "I developed time-dependent models of lithospheric flexure due to loading of the Hawaiian Islands. The above figure shows stresses and strain rates due to loading of the Hawaiian Islands with varying rheology and lithospheric thermal structure."
-
   - image_path: gallery/growing_islands.gif
     url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JB030376
     alt: "Growth of the Hawaiian Islands"
@@ -35,7 +23,7 @@ feature_row:
   - image_path: gallery/slab.gif
     alt: "2D Subduction with Parameterized Devolatilization"
     title: "2D Subduction with Parameterized Devolatilization"
-    excerpt: "I developed time-dependent 2D subduction models which simulated two-phase reactive fluid transport to investigate how fluid--solid coupling influence subduction dynamics and fluid pathways." 
+    excerpt: "I developed time-dependent 2D subduction models which simulated two-phase reactive fluid transport to investigate how fluid--solid coupling influence subduction dynamics and fluid pathways. Publication in prep." 
 
   - image_path: gallery/landlab-aspect-mesh.gif
     url: https://landlab-aspect.github.io/
@@ -44,10 +32,23 @@ feature_row:
     excerpt: "Animation showing an initial implementation of the landscape evolution software LandLab coupled to ASPECT. Both the LandLab mesh (white) and the ASPECT mesh (cyan) are unstructured."
 
   - image_path: gallery/pylith-strain.gif
-    <!-- url: https://landlab-aspect.github.io/ -->
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032427
     alt: "Outer-Rise Hydration in a Poro-elastic Crust"
     title: "Outer-Rise Hydration in a Poro-elastic Crust"
     excerpt: "Animation showing how the volume of pore fluid (1 %, black contour, 0.5 %, white contour) increases due to bending of the oceanic lithosphere in the Outer-Rise region of Central America. The model was developed using the finite element code PyLith."
+
+  - image_path: gallery/mesh_interface.png
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GC011824
+    alt: "3D Models of Subduction at the Hikurangi Margin"
+    title: "3D Models of Subduction at the Hikurangi Margin "
+    excerpt: "I developed instantaneous models of subduction at the Hikurangi margin to investigate the effects of plate interface rheology and hydration on subducting dynamics and mantle anisotropy."
+
+  - image_path: gallery/dual_plumes.gif
+    url: https://landlab-aspect.github.io/
+    alt: "Stress and Strain Beneath the Island of Hawaii"
+    title: "Stress and Strain Beneath the Island of Hawaii"
+    excerpt: "An ASPECT geodynamic model coupled to a LandLab surface evolution model. The ASPECT model prescribes two sources of melt which rotate in a circle, forming plumes (red contours) which rise upwards due to buoyancy forces. The melt reaches a depth of extraction (transparent white plane), where it is removed from the ASPECT model. The volume of melt extracted from ASPECT is computed and is sent to the Landlab model where it is routed across the surface using a Bingham visco-plastic rheology, building a volcano. The yellow surface imposed on the Landlab topography shows where lava is being vented onto the surface."
+
 ---
 
 {% include feature_row %}
